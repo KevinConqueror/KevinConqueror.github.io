@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 Hi, welcome to my personal homepage 👋👋 !
 My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate student at the School of Computer, Wuhan University(武汉大学计算机学院), pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
 🤝🤝 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
