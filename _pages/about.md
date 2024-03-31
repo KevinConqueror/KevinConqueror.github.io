@@ -39,7 +39,8 @@ My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate s
 - *2021.08* **Third Prize.** The 18th China Southeast Mathematical Olympics.
 
 # 🎖 Scholarships and Awards  
+- *2023.01* **Jieguan Wang Scholarship,First Prize.**(Award Rate:5/710=0.7%),Fuzhou No.1 High School.
+- *2022.01* **Jieguan Wang Scholarship,Second Prize.**(Award Rate:10/710=1.4%),Fuzhou No.1 High School.
 
 # 📖 Educations
 - *2023.09 - Now*, Undergraduate, School of Computer, Wuhan University, China.Majoring in Artificial Intelligence. 
-
