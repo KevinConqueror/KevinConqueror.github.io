@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+Hi, welcome to my personal homepage 👋👋 !
+My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate student at the School of Computer, Wuhan University(武汉大学计算机学院), pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
+🤝🤝 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Successfully switch to School of Computer, Wuhan University for following undergraduate study.
