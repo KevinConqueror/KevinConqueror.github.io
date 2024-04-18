@@ -30,8 +30,8 @@ My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate s
 # 📝 Publications 
 
 # 🏆 Competition Awards
-- *2023.09* **Third Prize.** The 15th Chinese Mathematics Competitions in Hubei Province.
-- *2023.09* **Silver Award.** The 2023 Programming Contest for freshman at Wuhan University.
+- *2023.11* **Third Prize.** The 15th Chinese Mathematics Competitions in Hubei Province.
+- *2023.10* **Silver Award.** The 2023 Programming Contest for freshman at Wuhan University.
 - *2022.09* **Second Prize.** The 2022 Chinese Mathematical Olympics in Fujian Province.
 - *2022.04* **Second Prize.** The 8th Annual International Mathematical Modelling Challenge.
 - *2022.01* **First Prize.** The 8th Annual International Mathematical Modelling Challenge(The Regional Contests of Mainland, Taiwan, Hong Kong and Macau).
