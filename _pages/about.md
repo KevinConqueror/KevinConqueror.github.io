@@ -30,8 +30,10 @@ My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate s
 # 📝 Publications 
 
 # 🏆 Competition Awards
-- *2024.04* 🥇**Gold Medal.** The 2024 International Collegiate Programming Contest(ICPC) China Hubei Provincial Programming Contest
+- *2024.04* 🥇**Gold Medal.** The 2024 International Collegiate Programming Contest(ICPC) China Hubei Provincial Programming Contest.
+- *2024.04* 🥉**Third Prize.** Central China Undergraduate Mathematical Contest in Modeling.
 - *2024.04* 🥉**Third Prize.** The 15th Lanqiao Cup Competition(Group A of Python).
+- *2024.02* 🥈**Honorable Mention.** The Interdisciplinary Contest in Modeling(ICM).
 - *2023.11* 🥉**Third Prize.** The 15th Chinese Mathematics Competitions in Hubei Province.
 - *2023.10* 🥈**Silver Award.** The 2023 Programming Contest for freshman at Wuhan University.
 - *2022.09* 🥈**Second Prize.** The 2022 Chinese Mathematical Olympics in Fujian Province.
