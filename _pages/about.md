@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, welcome to my personal homepage 👋👋 !
 
-My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate student at the School of Computer, Wuhan University(武汉大学计算机学院), pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
+My name is Yikang Zhou (周毅康), I’m currently a sophomore at the School of Computer, Wuhan University, pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
 
 🤝🤝 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
 
@@ -30,6 +30,7 @@ My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate s
 # 📝 Publications 
 
 # 🏆 Competition Awards
+- *2024.09* 🥉**Third Prize.** China Undergraduate Mathematical Contest in Modeling.
 - *2024.04* 🥇**Gold Medal.** The 2024 International Collegiate Programming Contest(ICPC) China Hubei Provincial Programming Contest.
 - *2024.04* 🥉**Third Prize.** Central China Undergraduate Mathematical Contest in Modeling.
 - *2024.04* 🥉**Third Prize.** The 15th Lanqiao Cup Competition(Group A of Python).
@@ -48,6 +49,7 @@ My name is Yikang Zhou (周毅康), I’m currently a first-year undergraduate s
 
 # 📖 Educations
 - *2023.09 - Now*, Undergraduate, School of Computer, Wuhan University, China.Majoring in Artificial Intelligence.
+- *2020.09 - 2023.06*, High school, Fuzhou No.1 High School.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gD9f9GRWeYa3bEvKVdi5JHo2NsGibYyhEa54VOa_Qj4&cl=ffffff&w=a"></script>
