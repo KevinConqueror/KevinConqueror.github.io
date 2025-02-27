@@ -27,7 +27,9 @@ My name is Yikang Zhou (周毅康), I’m currently a sophomore at the School of
 - *2024.03*: &nbsp;🎉🎉 Successfully switch to School of Computer, Wuhan University for following undergraduate study.
 - *2023.09*: &nbsp;🎉🎉 Successfully enter School of Cyber Science and Engineering, Wuhan University for undergraduate study through National College Entrance Examination.
 
-# 📝 Publications 
+# 📄 Publications 
+
+# 📝 Preprint
 
 # 🏆 Competition Awards
 - *2024.09* 🥉**Third Prize.** China Undergraduate Mathematical Contest in Modeling.
