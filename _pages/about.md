@@ -20,6 +20,7 @@ redirect_from:
 My name is Yikang Zhou (周毅康), I’m currently a sophomore at the School of Computer, Wuhan University, pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
 
 My research interest includes multimodal large language models, 3D vision and embodied intelligence.🤝🤝
+
 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
 
 # 🔥 News
