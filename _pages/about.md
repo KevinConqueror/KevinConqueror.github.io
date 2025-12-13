@@ -28,14 +28,14 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 - *2023.09*: &nbsp;🎉🎉 Successfully enter School of Cyber Science and Engineering, Wuhan University for undergraduate study through National College Entrance Examination.
 
 # 📄 Publications 
-\* equal contribution  <sup>✝</sup> corresponding author
+\* equal contribution  ✝ corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
 
-Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝</sup>
+Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou✝
 
 - In Submission
 </div>
