@@ -28,14 +28,14 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 - *2023.09*: &nbsp;🎉🎉 Successfully enter School of Cyber Science and Engineering, Wuhan University for undergraduate study through National College Entrance Examination.
 
 # 📄 Publications 
-\* equal contribution  ✝ corresponding author
+\* equal contribution | <sup>✝︎</sup> corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
 
-Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou✝
+Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
 
 - In Submission
 </div>
@@ -57,7 +57,7 @@ Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, 
 - *2023.10* 🥈**Silver Award.** The 2023 Programming Contest for freshman at Wuhan University.
 - *2022.09* 🥈**Second Prize.** The 2022 Chinese Mathematical Olympics in Fujian Province.
 - *2022.04* 🥈**Second Prize.** The 8th Annual International Mathematical Modelling Challenge.
-- *2022.01* 🥇**First Prize.** The 8th Annual International Mathematical Modelling Challenge(The Regional Contests of Mainland, Taiwan, Hong Kong and Macau).
+- *2022.01* 🥇**First Prize.** The 8th Annual International Mathematical Modelling Challenge(The Regional Contests of China).
 - *2021.09* 🥈**Second Prize.** The 2021 Chinese Mathematical Olympics in Fujian Province.
 - *2021.08* 🥉**Third Prize.** The 18th China Southeast Mathematical Olympics.
 
