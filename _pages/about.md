@@ -41,7 +41,29 @@ Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, 
 </div>
 </div>
 
-# 📝 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
+
+Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
+
+- In Submission
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
+
+Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
+
+- In Submission
+</div>
+</div>
+
+# 🚀 Project
 
 # 🏆 Competition Awards
 - *2025.09* 🥇**First Prize.** China Undergraduate Mathematical Contest in Modeling.
