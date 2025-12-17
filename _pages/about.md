@@ -30,23 +30,23 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 # 📄 Publications 
 \* equal contribution | <sup>✝︎</sup> corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/gtc-intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
+GTC: Game-Theoretic Token Compression for Video Large Language Models
 
-Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
+**Yikang Zhou**, Hongchen Wei, Zhenzhong Chen<sup>✝︎</sup>
 
 - In Submission
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/onepose-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/unifiedssr-intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
+UnifiedSSR+: An Enhanced Framework for Unified Sequential Search and Recommendation
 
-Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
+Qianqian Zhang, Jiayi Xie, **Yikang Zhou**, Jing Yi, Zhenzhong Chen<sup>✝︎</sup>
 
 - In Submission
 </div>
