@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yikang Zhou (周毅康), I’m currently a undergraduate at the School of Computer, Wuhan University, pursuing a B.E. degree in Artificial Intelligence. I graduated from Fuzhou No.1 High School, where I spent 1 year learning Mathematical Olympic.
 
-My research interest includes multimodal large language models, 3D vision and embodied intelligence.🤝🤝
+My research interest includes embodied intelligence, multimodal large language models, 3D vision.🤝🤝
 
 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
 
@@ -29,15 +29,25 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 # 📄 Publications 
 \* equal contribution | <sup>✝︎</sup> corresponding author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2605.12090</div><img src='images/wam-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090)
+
+Siyin Wang\*, Junhao Shi\*, Zhaoyang Fu\*, Xinzhe He\*, Feihong Liu\*, Chenchen Yang, **Yikang Zhou**, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang<sup>✝︎</sup>
+
+[**Project**](https://openmoss.github.io/Awesome-WAM/) \| [![](https://img.shields.io/github/stars/OpenMOSS/Awesome-WAM?style=social&label=Code+Stars)](https://github.com/OpenMOSS/Awesome-WAM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Paper)](https://huggingface.co/papers/2605.12090)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/gtc-intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GTC: Game-Theoretic Token Compression for Video Large Language Models
+[GTC: Game-Theoretic Token Compression for Video Large Language Models](https://github.com/KevinConqueror/GTC)
 
 **Yikang Zhou**, Hongchen Wei, Zhenzhong Chen<sup>✝︎</sup>
 
-- In Submission
+[**Project**](https://github.com/KevinConqueror/GTC) \| [![](https://img.shields.io/github/stars/KevinConqueror/GTC?style=social&label=Code+Stars)](https://github.com/KevinConqueror/GTC)
 </div>
 </div>
 
@@ -46,9 +56,8 @@ GTC: Game-Theoretic Token Compression for Video Large Language Models
 
 UnifiedSSR+: An Enhanced Framework for Unified Sequential Search and Recommendation
 
-Qianqian Zhang, Jiayi Xie, **Yikang Zhou**, Jing Yi, Zhenzhong Chen<sup>✝︎</sup>
+Qianqian Zhang\*, Jiayi Xie\*, **Yikang Zhou**, Jing Yi, Zhenzhong Chen<sup>✝︎</sup>
 
-- In Submission
 </div>
 </div>
 
@@ -59,13 +68,13 @@ CAD-Model-Free One-Shot Object Pose Estimation with 2D-3D Matching Transformers
 
 Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou<sup>✝︎</sup>
 
-- In Submission
 </div>
 </div>
 
 # 🚀 Project
 
 # 🏆 Competition Awards
+- *2026.05* 🥉**Third Prize.** Chinese University Student Software Innovation Contest.
 - *2025.09* 🥇**First Prize.** China Undergraduate Mathematical Contest in Modeling.
 - *2025.05* 🥈**Second Prize.** The 16th Lanqiao Cup Competition(Artificial Intelligence).
 - *2025.04* 🥉**Third Prize.** Chinese Collegiate Computing Competition(Data Science).
@@ -90,6 +99,3 @@ Xingyi He, Jiaming Sun, Zihao Wang, Siyu Zhang, **Yikang Zhou**, Guofeng Zhang, 
 # 📖 Educations
 - *2023.09 - Now*, Undergraduate, School of Computer, Wuhan University, China. Majoring in Artificial Intelligence.
 - *2020.09 - 2023.06*, High school, Fuzhou No.1 High School.
-
-# 🗺️ Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gD9f9GRWeYa3bEvKVdi5JHo2NsGibYyhEa54VOa_Qj4&cl=ffffff&w=a"></script>
