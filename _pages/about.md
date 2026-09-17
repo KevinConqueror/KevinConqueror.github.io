@@ -67,7 +67,7 @@ Qianqian Zhang\*, Jiayi Xie\*, **Yikang Zhou**, Jing Yi, Zhenzhong Chen<sup>✝�
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EasyWAM</div><img src='images/projects/easywam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/projects/easywam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EasyWAM](https://github.com/OpenMOSS/EasyWAM) — An easy-to-use framework for World Action Models in Embodied AI.
