@@ -19,11 +19,14 @@ redirect_from:
 
 My name is Yikang Zhou (周毅康), I’m currently a undergraduate at the School of Computer, Wuhan University, pursuing a B.E. degree in Artificial Intelligence.
 
-My research interest includes embodied intelligence, multimodal large language models, 3D vision.🤝🤝
+My research interest includes Embodied AI, Robotics, Agent and LLM.🤝🤝
 
 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!📧
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Released the [EasyWAM](https://github.com/OpenMOSS/EasyWAM) project for easy world action model training and deployment.
+- *2026.06*: &nbsp;🎉🎉 "World Action Models: The Next Frontier in Embodied AI" survey paper is published on [arXiv](https://arxiv.org/abs/2605.12090).
+- *2026.05*: &nbsp;🎉🎉 UnifiedSSR+ is published on [TIST](https://dl.acm.org/doi/10.1145/3828659).
 - *2024.03*: &nbsp;🎉🎉 Successfully switch to School of Computer, Wuhan University for following undergraduate study.
 - *2023.09*: &nbsp;🎉🎉 Successfully enter School of Cyber Science and Engineering, Wuhan University for undergraduate study through National College Entrance Examination.
 
