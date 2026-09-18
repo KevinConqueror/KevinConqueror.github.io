@@ -40,7 +40,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 Siyin Wang\*, Junhao Shi\*, Zhaoyang Fu\*, Xinzhe He\*, Feihong Liu\*, Chenchen Yang, **Yikang Zhou**, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang<sup>✝︎</sup>
 
-[**Project**](https://openmoss.github.io/Awesome-WAM/) \| [![](https://img.shields.io/github/stars/OpenMOSS/Awesome-WAM?style=social&label=Code+Stars)](https://github.com/OpenMOSS/Awesome-WAM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Paper)](https://huggingface.co/papers/2605.12090) \| <strong><span class='show_paper_citations' data='L9hYZ5gAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://openmoss.github.io/Awesome-WAM/) \| [![](https://img.shields.io/github/stars/OpenMOSS/Awesome-WAM?style=social&label=Code+Stars)](https://github.com/OpenMOSS/Awesome-WAM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Paper)](https://huggingface.co/papers/2605.12090) <strong><span class='show_paper_citations' data='L9hYZ5gAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
