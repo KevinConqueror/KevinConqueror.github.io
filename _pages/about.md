@@ -63,7 +63,7 @@ Siyin Wang\*, Junhao Shi\*, Zhaoyang Fu\*, Xinzhe He\*, Feihong Liu\*, Chenchen 
 
 Qianqian Zhang\*, Jiayi Xie\*, **Yikang Zhou**, Jing Yi, Zhenzhong Chen<sup>✝︎</sup>
 
-<strong><span class='show_paper_citations' data='L9hYZ5gAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://github.com/WItaZhang/UnifiedSSR-plus) \| [![](https://img.shields.io/github/stars/WItaZhang/UnifiedSSR-plus?style=social&label=Code+Stars)](https://github.com/WItaZhang/UnifiedSSR-plus) <strong><span class='show_paper_citations' data='L9hYZ5gAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 </div>
 </div>
