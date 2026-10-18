@@ -45,17 +45,6 @@ Siyin Wang\*, Junhao Shi\*, Zhaoyang Fu\*, Xinzhe He\*, Feihong Liu\*, Chenchen 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/publications/gtc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GTC: Game-Theoretic Token Compression for Video Large Language Models](https://github.com/KevinConqueror/GTC)
-
-**Yikang Zhou**, Hongchen Wei, Zhenzhong Chen<sup>✝︎</sup>
-
-[**Project**](https://github.com/KevinConqueror/GTC) \| [![](https://img.shields.io/github/stars/KevinConqueror/GTC?style=social&label=Code+Stars)](https://github.com/KevinConqueror/GTC)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIST</div><img src='images/publications/unifiedssr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
